@@ -1,8 +1,11 @@
-[
-  {
-    "title": "Subnautica 2 Early Access",
-    "fileSize": "15.7 GB",
-    "uris": ["https://gofile.io/d/ClFCFM"],
-    "uploadDate": "2026-05-17T15:00:00.000Z"
-  }
-]
+{
+  "name": "Mi Servidor Privado",
+  "downloads": [
+    {
+      "title": "Subnautica 2 Early Access",
+      "fileSize": "15.7 GB",
+      "uris": ["https://gofile.io/d/ClFCFM"],
+      "uploadDate": "2026-05-17T15:00:00.000Z"
+    }
+  ]
+}
